@@ -10,6 +10,7 @@ com\portfolio\andres\Security\jwt\JwtProvider.class
 com\portfolio\andres\Service\SEducacion.class
 com\portfolio\andres\Security\Service\UserDetailsImp.class
 com\portfolio\andres\Security\Entity\UsuarioPrincipal.class
+com\portfolio\andres\WebConfig.class
 com\portfolio\andres\AndresApplication.class
 com\portfolio\andres\Service\SExperiencia.class
 com\portfolio\andres\Controller\CEducacion.class
