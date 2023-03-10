@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/personas")
-@CrossOrigin (origins = {"https://carlos-andres-villafane.web.app","http://localhost:4200"})
+@CrossOrigin (origins = {"https://carlos-andres-villafane.web.app","https://carlos-villafane.web.app"})
 public class PersonaController {
     @Autowired
     ImpPersonaService personaService;

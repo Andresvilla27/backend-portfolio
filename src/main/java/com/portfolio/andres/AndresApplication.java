@@ -17,7 +17,7 @@ public class AndresApplication {
             return new WebMvcConfigurer() {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
-		registry.addMapping("/**").allowedOrigins("https://carlos-andres-villafane.web.app","http://localhost:4200")
+		registry.addMapping("/**").allowedOrigins("https://carlos-andres-villafane.web.app","https://carlos-villafane.web.app")
                         .allowedMethods("*").allowedHeaders("*");
 		}
             };
