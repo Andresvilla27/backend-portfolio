@@ -29,7 +29,6 @@ D:\Documentos\andres\programacionAP\ProyectoFinal\portfolio\backend\andres\backe
 D:\Documentos\andres\programacionAP\ProyectoFinal\portfolio\backend\andres\backend-portfolio\src\main\java\com\portfolio\andres\Controller\PersonaController.java
 D:\Documentos\andres\programacionAP\ProyectoFinal\portfolio\backend\andres\backend-portfolio\src\main\java\com\portfolio\andres\Security\Controller\AuthController.java
 D:\Documentos\andres\programacionAP\ProyectoFinal\portfolio\backend\andres\backend-portfolio\src\main\java\com\portfolio\andres\Security\jwt\JwtTokenFilter.java
-D:\Documentos\andres\programacionAP\ProyectoFinal\portfolio\backend\andres\backend-portfolio\src\main\java\com\portfolio\andres\WebConfig.java
 D:\Documentos\andres\programacionAP\ProyectoFinal\portfolio\backend\andres\backend-portfolio\src\main\java\com\portfolio\andres\Repository\IPersonaRepository.java
 D:\Documentos\andres\programacionAP\ProyectoFinal\portfolio\backend\andres\backend-portfolio\src\main\java\com\portfolio\andres\Security\Enums\RolNombre.java
 D:\Documentos\andres\programacionAP\ProyectoFinal\portfolio\backend\andres\backend-portfolio\src\main\java\com\portfolio\andres\Security\jwt\JwtEntryPoint.java
